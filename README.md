@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MPBCoder&label=Profile%20views&color=0e75b6&style=flat" alt="MPBCoder" /> </p><br>
 
 Data|value
----
+---|---
 name|**M.Parsa**
 age|**unknown**
 country|**I.R. Iran**
