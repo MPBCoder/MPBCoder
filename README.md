@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://mpbcoder.github.io">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode,wordpress,stackoverflow,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,gitlab,vscode,wordpress,stackoverflow,discord,netlify" />
   </a>
 </p>
 
