@@ -4,8 +4,8 @@
 ### My Skills And Tools:
 
 <p align="center">
-  <a href="https://mpbcoder.github.io">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github,gitlab,vscode,wordpress,stackoverflow,discord,netlify" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,gitlab,vscode,wordpress,stackoverflow,discord,netlify,linux,figma" />
   </a>
 </p>
 
