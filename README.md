@@ -5,7 +5,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,git,github,gitlab,vscode,wordpress,stackoverflow,discord,netlify,linux,figma,md,sass,svg&perline=10;" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,github,gitlab,vscode,wordpress,stackoverflow,discord,netlify,linux,figma,md,sass,svg" />
+  </a>
+</p>
+
+####Tools I want to Learn it:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,bash,php" />
   </a>
 </p>
 
