@@ -17,13 +17,14 @@
   </a>
 </p>
 
-###  My Activity:
+### My Website :
+[https://mpbcoder.github.io](https://mpbcoder.github.io)
+
+### :zap: Recent Activity 
+  
+ <!--START_SECTION:activity-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=MPBCODER&&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=fff">
-
-### My Website :
-[https://MPBCoder.netlify.app](https://MPBCODER.netlify.app)
- ( it's old version of website , new version coming soon ... )
 
 
 
